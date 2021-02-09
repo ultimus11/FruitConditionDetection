@@ -56,9 +56,9 @@ def whatNumIsThis(filePath):
 				x+=1
 		except Exception as e:
 			print(str(e))
-	print(matchedAr)    
+	#print(matchedAr)    
 	x = Counter(matchedAr)
-	print(x)
+	#print(x)
 	status_1=x[1]
 	statuss_2=x[2]
 	if int(status_1)>int(statuss_2):
