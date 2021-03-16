@@ -94,6 +94,7 @@ Food safety and quality control in logistics are emerging as IoT agribusiness ar
 
 # Output
 ![Raspberry Pi](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/1.png)
+
 ![Android App](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/2.png)
 # Conclusion
 
