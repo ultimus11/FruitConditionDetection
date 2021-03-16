@@ -18,14 +18,14 @@ Java is used for android application.
 The evolution of multipurpose sensors over the last decades has been investigated with the aim of developing innovative devices with applications in several fields of technology, including in the food industry. This technology, when combined with IoT, is able to provide a lot more information than conventional food inspection technologies, which are limited to weight, volume, color and aspect inspection. This information is transmitted wirelessly to a computer system providing an interface where the user can observe the evolution of the product quality over time.
 
 # Contents
-Introduction
-Objectives
-Problem Statement
-Software Requirement
-Hardware Requirement
-Flow of Working
-Output
-Conclusion
+Introduction,
+Objectives,
+Problem Statement,
+Software Requirement,
+Hardware Requirement,
+Flow of Working,
+Output,
+Conclusion.
 
 # Introduction
 It is expected that by 2022, the Internet of Things (IoT) will have grown faster than any other category of connected devices. The IoT is also expected to make a significant contribution in the related fields of food and consumer safety. Mobile olfaction and odor source localization, technologies with high impact on intelligent food feature extraction, have become important fields of research in recent years.
