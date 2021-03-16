@@ -23,7 +23,6 @@ Objectives
 Problem Statement
 Software Requirement
 Hardware Requirement
-Flow Chart
 Flow of Working
 Output
 Conclusion
@@ -71,9 +70,6 @@ Food safety and quality control in logistics are emerging as IoT agribusiness ar
 •	Android smartphone
 
 
-# Flow Chart
-
-
 # Flow of Working
 1.	Power the raspberry pi.
 
@@ -97,6 +93,8 @@ Food safety and quality control in logistics are emerging as IoT agribusiness ar
 
 
 # Output
+![Raspberry Pi](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/1.png)
+![Android App](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/2.png)
 # Conclusion
 
 The aging population is a phenomenon occurring not only in Europe, but also on the other continents. Also, according to the World Health Organization, from a medical point of view, age is associated with many diseases for which there are no effective treatments. In this context, our study contributes to increase the quality of life, through the use of intelligent sensor networks to warn the aged individuals when a food expires, or when certain properties of the food packaging are altered.
