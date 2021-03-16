@@ -11,4 +11,5 @@ I used Raspberry Pi and Python to capture and process the image.
 I integrated Google Firebase with android app for real time database and storage. 
 Java is used for android application.
 
-![Ripped Apple](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/d1.png)
+![Ripped Apple](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/d1.png) 
+![Test Image](https://github.com/ultimus11/FruitConditionDetection/blob/main/code/d.png) 
